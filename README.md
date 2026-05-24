@@ -1,0 +1,2 @@
+# https-github.com-satriawigunadev-lastmile2026-cab-booking-app
+Introducing RideEase, the innovative cab booking app that simplifies your transportation needs with just a few taps. Say goodbye to the frustration of traditional taxi services and welcome the convenience of RideEase, crafted on the MERN (MongoDB, Express.js, React, Node.js) stack.With RideEase, arranging your rides becomes effortless. Our user-fri
