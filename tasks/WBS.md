@@ -3,7 +3,7 @@
 ## Milestones
 
 ### Project Setup and Configuration
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
