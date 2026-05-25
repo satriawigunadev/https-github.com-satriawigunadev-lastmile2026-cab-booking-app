@@ -8,7 +8,7 @@ Whether you're commuting to work or exploring a new city, RideEase caters to you
 Say hello to the future of transportation and bid farewell to the hassles of traditional cab services. Experience the ease of RideEase, your trusted companion for every journey.
 
 
-**Status:** planning
+**Status:** review
 **Domain:** Travel & Hospitality
 **Progress:** 0%
 
